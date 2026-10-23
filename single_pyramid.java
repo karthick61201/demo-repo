@@ -12,7 +12,7 @@ class single_pyramid
 				{
 					System.out.print("  ");
 				}
-				else if((i == 2 && j == 1) || (i == 2 && j == 2) || (i == 2 && j == 6) 											|| (i == 2 && j == 7))     
+				else if((i == 2 && j == 1) || (i == 2 && j == 2) || (i == 2 && j == 6) || (i == 2 && j == 7))     
 				{
 					System.out.print("  ");
 				}	
