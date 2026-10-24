@@ -2,6 +2,7 @@ class file
 {
 	public static void main(String args[])
 	{
-		System.out.println("Welcome back to Github afetr a long while");
+		System.out.println("Welcome back to Github after a long while");
+		System.out.println("Learning Git Pull - Practice 2");
 	}
 }
