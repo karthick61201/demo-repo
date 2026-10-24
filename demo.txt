@@ -2,6 +2,7 @@ public class sample
 {
 	public static void main(String args[])
 	{                
-		System.out.println("Karthick");
+		System.out.println("Hi Karthick, How r u!");
+		System.out.println("Learning Git Pull - Practice 1")
 	}
 }
