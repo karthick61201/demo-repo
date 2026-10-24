@@ -1,9 +1,8 @@
-class file
+public class sample
 {
 	public static void main(String args[])
-	{
-		System.out.println("Welcome back to Github after a long while");
-		System.out.println("Learning Git Pull - Practice 2");
-		System.out.println("Re-edited. Learning Git Pull - Practice 3");
+	{                
+		System.out.println("This is a previous version of file.txt commit")
+		System.out.println("Helo Karthick Raja R. I have added some additional content here. So, It was not complete sommit of previous version.");
 	}
 }
