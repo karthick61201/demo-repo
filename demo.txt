@@ -1,8 +1,9 @@
 public class sample
 {
 	public static void main(String args[])
-	{                
+	{      
+		System.out.println("Helo Karthick Raja R. I have added some additional content here. So, It was not complete of previous version of demo.txt commit.");
 		System.out.println("Hi Karthick, How r u!");
-		System.out.println("Learning Git Pull - Practice 1")
+		System.out.println("Learning Git Pull - Practice - 2 of replacing Practice - 1 in previous version of demo.txt")
 	}
 }
